@@ -1,7 +1,12 @@
-.DS_Store
-push
-
+# System Created
+*/.ipynb_checkpoints/*
+*/__pycache__/*
 *.pyc
-*.pkl
+
+# Image Formats
 *.jpg
+*.jpeg
 *.png
+
+# User Files
+*output*
