@@ -1,5 +1,5 @@
 # System Created
-*/.ipynb_checkpoints/*
+.ipynb_checkpoints
 */__pycache__/*
 *.pyc
 
@@ -8,5 +8,9 @@
 *.jpeg
 *.png
 
+# Compression Formats
+*.gz
+
 # User Files
-*output*
+*output/*
+*data/*
